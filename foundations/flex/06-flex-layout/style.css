@@ -52,3 +52,6 @@ body {
   flex-direction: column;
   justify-content: space-between;
 }
+button {
+  padding: 8px 16px;
+}
