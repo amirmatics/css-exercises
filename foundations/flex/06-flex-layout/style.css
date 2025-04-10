@@ -28,6 +28,7 @@ input {
 .header, .footer {
   display: flex;
   justify-content: space-between;
+  margin: 16px;
 }
 .footer {
   background-color: #eeeeee;
@@ -36,7 +37,7 @@ input {
 ul {
   display: flex;
   list-style-type: none;
-  margin: 16px;
+  margin: 0px;
   padding: 0;
   gap: 16px;
 }
