@@ -87,3 +87,6 @@ button.cancel {
   font-weight: 700;
   margin-bottom: 8px;
 }
+div {
+  outline: 2px solid red;
+}
