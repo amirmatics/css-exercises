@@ -29,6 +29,7 @@ img {
 /* */
 .header {
   display: flex;
+  justify-content: space-evenly;
   margin: 32px;
   gap: 52px;
 }
