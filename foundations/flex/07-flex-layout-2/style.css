@@ -46,7 +46,6 @@ body {
 }
 .container {
   display: flex;
-  flex: 1;
 }
 .sidebar{
   min-width: 200px;
